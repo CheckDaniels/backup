@@ -8,6 +8,7 @@
 + /.ssh
 + /.tmux
 + /.var
++ /.wine
 + /Applications
 + /bin
 + /Downloads
@@ -18,6 +19,7 @@
 + /.bash_history
 + /.bashrc
 + /.bashrc-personal
++ /.zsh_history
 + /.zshrc
 + /.zshrc-personal
 - /*
