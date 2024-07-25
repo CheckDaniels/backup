@@ -1,25 +1,136 @@
-+ /.config
-+ /.local
-+ /.bash
++ /.config/Bitwarden
+- /.config/BraveSoftware
++ /.config/chezmoi
+- /.config/chromium
++ /.config/copyq
++ /.config/discord
++ /.config/draw.io
++ /.config/FreeTube
++ /.config/GIMP
++ /.config/git
++ /.config/GitExtensions
++ /.config/GitHub Desktop
++ /.config/GitKraken
+- /.config/google-chrome
++ /.config/GottCode
++ /.config/inkscape
++ /.config/JetBrains
++ /.config/kde.org
++ /.config/Kvantum
++ /.config/libreoffice
++ /.config/Mailspring
++ /.config/marktext
++ /.config/menus
++ /.config/microsoft-edge
++ /.config/Morgen
++ /.config/nemo
++ /.config/neofetch
++ /.config/news-flash
++ /.config/Nextcloud
++ /.config/obsidian
++ /.config/oh-my-posh
++ /.config/onlyoffice
++ /.config/PBE
++ /.config/pdfarranger
+- /.config/protonmail
++ /.config/pulse
++ /.config/qalculate
++ /.config/Signal
++ /.config/spotify
++ /.config/sqlitebrowser
++ /.config/stacer
++ /.config/superProductivity
++ /.config/systemd
++ /.config/teams
+- /.config/uGet
++ /.config/ulauncher
++ /.config/VirtualBox
++ /.config/vlc
++ /.config/xed
++ /.config/xsettingsd
++ /.config/xviewer
+
+- /.config/*
+
+- /.config/alacritty
+- /.config/atuin
+- /.config/autostart
+- /.config/btop
+- /.config/calibre
+- /.config/chezmoi
+- /.config/cinnamon
+- /.config/dconf
+- /.config/evolution
+- /.config/fontconfig
+- /.config/hypr
+- /.config/mako
+- /.config/nvim
+- /.config/ranger
+- /.config/stylix
+- /.config/tmux
+- /.config/waybar
+
+
+
+
+
++ /.local/share/applications
++ /.local/share/applications/wine
++ /.local/share/atuin
++ /.local/share/chezmoi
++ /.local/share/copyq
++ /.local/share/desktop-directories
++ /.local/share/flatpak
++ /.local/share/gedit
++ /.local/share/ghostwriter
++ /.local/share/GitExtensions
++ /.local/share/gnome-pomodoro
++ /.local/share/GottCode
++ /.local/share/gvfs-metadata
++ /.local/share/icons
++ /.local/share/iotas
++ /.local/share/keyrings
++ /.local/share/kwalletd
++ /.local/share/mime
++ /.local/share/nemo
++ /.local/share/news-flash
++ /.local/share/Nextcloud
++ /.local/share/nvim
++ /.local/share/onlyoffice
++ /.local/share/PBE
++ /.local/share/qalculate
++ /.local/share/ranger
++ /.local/share/rhythmbox
++ /.local/share/sioyek
++ /.local/share/Steam
++ /.local/share/Trash
++ /.local/share/ulauncher
++ /.local/share/vlc
++ /.local/share/xed
++ /.local/share/xreader
+
+- /.local/share/*
+
+- /.local/share/fonts
+- /.local/share/themes
+
+
+
+
 + /.easytax
 + /.librewolf
++ /.gitkraken
++ /.gnupg
 + /.minecraft
 + /.scid5.0
 + /.ssh
-+ /.tmux
 + /.var
-+ /.wine
-+ /Applications
-+ /bin
+- /.wine
+- /bin
 + /Downloads
 + /Documents
 + /Music
-+ /Nextcloud
 + /Pictures
 + /.bash_history
-+ /.bashrc
-+ /.bashrc-personal
-+ /.zsh_history
-+ /.zshrc
-+ /.zshrc-personal
++ /.histfile
 - /*
