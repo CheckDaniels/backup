@@ -8,8 +8,6 @@
 + /.config/FreeTube
 + /.config/GIMP
 + /.config/git
-+ /.config/GitExtensions
-+ /.config/GitHub Desktop
 + /.config/GitKraken
 - /.config/google-chrome
 + /.config/GottCode
@@ -83,7 +81,6 @@
 + /.local/share/flatpak
 + /.local/share/gedit
 + /.local/share/ghostwriter
-+ /.local/share/GitExtensions
 + /.local/share/gnome-pomodoro
 + /.local/share/GottCode
 + /.local/share/gvfs-metadata
@@ -132,5 +129,6 @@
 + /Music
 + /Pictures
 + /.bash_history
++ /.gitconfig
 + /.histfile
 - /*
