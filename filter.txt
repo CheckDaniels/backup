@@ -1,7 +1,7 @@
 + /.config/Bitwarden
-- /.config/BraveSoftware
++ /.config/BraveSoftware
 + /.config/chezmoi
-- /.config/chromium
++ /.config/chromium
 + /.config/copyq
 + /.config/discord
 + /.config/draw.io
@@ -9,7 +9,7 @@
 + /.config/GIMP
 + /.config/git
 + /.config/GitKraken
-- /.config/google-chrome
++ /.config/google-chrome
 + /.config/GottCode
 + /.config/inkscape
 + /.config/JetBrains
@@ -30,7 +30,7 @@
 + /.config/onlyoffice
 + /.config/PBE
 + /.config/pdfarranger
-- /.config/protonmail
++ /.config/protonmail
 + /.config/pulse
 + /.config/qalculate
 + /.config/Signal
@@ -40,7 +40,7 @@
 + /.config/superProductivity
 + /.config/systemd
 + /.config/teams
-- /.config/uGet
++ /.config/uGet
 + /.config/ulauncher
 + /.config/VirtualBox
 + /.config/vlc
@@ -48,7 +48,7 @@
 + /.config/xsettingsd
 + /.config/xviewer
 
-- /.config/*
++ /.config
 
 - /.config/alacritty
 - /.config/atuin
@@ -58,6 +58,7 @@
 - /.config/chezmoi
 - /.config/cinnamon
 - /.config/dconf
+- /.config/home-manager
 - /.config/evolution
 - /.config/fontconfig
 - /.config/hypr
@@ -106,7 +107,8 @@
 + /.local/share/xed
 + /.local/share/xreader
 
-- /.local/share/*
++ /.local
+- /.local/state/*
 
 - /.local/share/fonts
 - /.local/share/themes
