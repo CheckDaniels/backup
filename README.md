@@ -1,4 +1,4 @@
-# setup
+# backup
 my setup commands
 
 ### restoring data from 1st SSD
